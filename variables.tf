@@ -1,7 +1,7 @@
 variable "network_name" {
   description = "Nome da Rede"
   type        = string
-  default     = "my-custom-mode-network"
+  default     = "my-project-network"
 }
 
 variable "centro_custo_rh" {

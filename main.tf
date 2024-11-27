@@ -15,7 +15,7 @@ terraform {
 provider "google" {
   project = "fransil-devops-iac"
   region  = "us-central1"
-  zone    = "us-central1-c"
+  zone    = "us-central1-a"
 }
 
 resource "google_compute_network" "vpc_network" {

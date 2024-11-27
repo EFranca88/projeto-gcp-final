@@ -9,8 +9,3 @@ Neste projeto, será implantado uma infraestrutura baseada em Linux a partir do 
 * Gatilho criado no Cloud Build, que será disparado sempre que um novo commit for criado no repositório.
 
 ![Alt text](images/gatilho-cloudbuild.png?raw=true "Gatilho criado no Cloud Build")
-
-* Rede VCP que será utilizado pela maquina Linux a ser implantada.
-
-![Alt text](images/gatilho-cloudbuild.png?raw=true "Rede VCP")
-
