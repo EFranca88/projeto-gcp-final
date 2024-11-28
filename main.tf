@@ -5,7 +5,7 @@ terraform {
     }
   }
 
-   backend "gcs" {
+  backend "gcs" {
     bucket  = "frasilbucket"
     prefix  = "terraform/state"
   }
