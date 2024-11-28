@@ -9,3 +9,7 @@ Neste projeto, será implantado uma infraestrutura baseada em Linux a partir do 
 * Gatilho criado no Cloud Build, que será disparado sempre que um novo commit for criado no repositório.
 
 ![Alt text](images/gatilho-cloudbuild.png?raw=true "Gatilho criado no Cloud Build")
+
+* Evidencia do deploy de maquina Linux atraves do Cloud Build com Terraform.
+
+![Alt text](images/projeto-funcional.png?raw=true "Cloud Build com Terraform executado com sucesso")
